@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233119994391",
+    "project_id": "merlijn-van-lent-cube-timer",
+    "storage_bucket": "merlijn-van-lent-cube-timer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233119994391:android:655c5821d228508ee28252",
+        "android_client_info": {
+          "package_name": "nl.merlijnvanlent.cubetimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233119994391-i69l8lj5s9mac7dhids5m4vknt76ilpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nl.merlijnvanlent.cubetimer",
+            "certificate_hash": "49811bcf900df1deed6f196ea848373312fa7f2f"
+          }
+        },
+        {
+          "client_id": "233119994391-p5g2vjo173fr8s44va2060kgso99512t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQrQQL_S3s0AUEUnyxKGrvFJf43IFlxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233119994391-p5g2vjo173fr8s44va2060kgso99512t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

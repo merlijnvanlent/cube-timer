@@ -1,8 +1,14 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_core/firebase_core.dart';
+
 import 'package:timer/currentState.dart';
 import 'package:timer/durationTimer.dart';
 
-main() => runApp(CubeTimer());
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp();
+  runApp(CubeTimer());
+}
 
 class CubeTimer extends StatefulWidget {
   @override

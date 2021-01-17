@@ -1,4 +1,4 @@
-package com.example.timer
+package nl.merlijnvanlent.cubetimer
 
 import io.flutter.embedding.android.FlutterActivity
 
